@@ -34,7 +34,7 @@ Mi objetivo es **integrar ingeniería y software** para crear soluciones **innov
 ---
 
 ## 📫 Contacto  
-- 💼 [LinkedIn](www.linkedin.com/in/ignacio-perez-serra)  
+- 💼 <a href="https://www.linkedin.com/in/ignacio-perez-serra" target="_blank">LinkedIn</a> 
 - 📧 ps.nacho01@gmail.com   
 
 <!--
