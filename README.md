@@ -28,8 +28,8 @@ Mi objetivo es **integrar ingeniería y software** para crear soluciones **innov
 ---
 
 ## 📂 Proyectos destacados  
-- 🔹 [Gémelo digital Robot Eddie](https://github.com/Ignix98/eddiebot_ws) – Caracterización y validación del modelo dinámico de un robot móvil  
-- 🔹 [Simon](https://github.com/Ignix98/SIMON_BBB_IPERSER) –  BeagleBone Black (BBB)  
+🔹 [Gémelo digital Robot Eddie](https://github.com/Ignix98/eddiebot_ws) – Caracterización y validación del modelo dinámico de un robot móvil  
+🔹 [Simon](https://github.com/Ignix98/SIMON_BBB_IPERSER) –  BeagleBone Black (BBB)  
 
 ---
 
