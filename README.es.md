@@ -1,3 +1,6 @@
+<!-- En README.es.md (español) -->
+**🇪🇸 Español** · [🇬🇧 English](./README.md)
+
 ## 👋 ¡Hola! Soy Ignacio Pérez Serra  
 
 💻 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (2017–2019)**  
