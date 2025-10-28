@@ -38,6 +38,7 @@ My goal is to **integrate engineering and software** to create **innovative, eff
 - 💼 <a href="https://www.linkedin.com/in/ignacio-perez-serra" target="_blank">LinkedIn</a>  
 - 📧 ps.nacho01@gmail.com  
 
+---
 <!--
 **Ignix98/Ignix98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
