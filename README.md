@@ -1,3 +1,5 @@
+<!-- En README.md (inglés) -->
+[🇪🇸 Español](./README.es.md) · **🇬🇧 English**
 
 ## 👋 ¡Hola! Soy Ignacio Pérez Serra  
 
