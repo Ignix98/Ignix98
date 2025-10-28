@@ -1,43 +1,42 @@
 <!-- En README.md (inglés) -->
 [🇪🇸 Español](./README.es.md) · **🇬🇧 English**
 
-## 👋 ¡Hola! Soy Ignacio Pérez Serra  
+# 👋 Hi! I’m Ignacio Pérez Serra
 
-💻 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (2017–2019)**  
-⚙️ **Ingeniero en Electrónica Industrial por la Universitat de València (2019–2024)**  
-📚 Actualmente curso el **Máster en Automática e Informática Industrial en la UPV**  
+💻 **Higher Technician in Multiplatform Application Development (2017–2019)**  
+⚙️ **B.Eng. in Industrial Electronics Engineering — Universitat de València (2019–2024)**  
+📚 Currently pursuing the **M.Sc. in Automation and Industrial Informatics at UPV**
 
-🎓 **TFG**: *Caracterización y validación del modelo dinámico de un robot móvil*  
-> Nota obtenida: **9,5/10**
-
-
----
-
-## 🚀 Sobre mí  
-Me interesa especialmente la **programación**, la **electrónica** y la **mecánica**.  
-Me defino por una **mentalidad de aprendizaje continuo**, la **curiosidad técnica** y la **capacidad de análisis**.  
-
-Mi objetivo es **integrar ingeniería y software** para crear soluciones **innovadoras y eficientes** en el ámbito tecnológico e industrial.  
+🎓 **Bachelor’s Thesis:** *Characterization and Validation of the Dynamic Model of a Mobile Robot*  
+> Final grade: **9.5/10**
 
 ---
 
-## 🛠️ Tecnologías y herramientas  
-- **Lenguajes**: Python, C++, C, Java  
-- **Frameworks**: ROS 2  
-- **Bases de datos**: PostgreSQL, SQL  
-- **Herramientas**: Git, Linux  
+## 🚀 About Me
+I’m especially interested in **programming**, **electronics**, and **mechanics**.  
+I’m driven by a **continuous-learning mindset**, **technical curiosity**, and strong **analytical skills**.
+
+My goal is to **integrate engineering and software** to create **innovative, efficient** solutions in technological and industrial contexts.
 
 ---
 
-## 📂 Proyectos destacados  
-🔹 [Gémelo digital Robot Eddie](https://github.com/Ignix98/eddiebot_ws) – Caracterización y validación del modelo dinámico de un robot móvil  
-🔹 [Simon](https://github.com/Ignix98/SIMON_BBB_IPERSER) –  BeagleBone Black (BBB)  
+## 🛠️ Technologies & Tools
+- **Languages:** Python, C++, C, Java  
+- **Frameworks:** ROS 2  
+- **Databases:** PostgreSQL, SQL  
+- **Tools:** Git, Linux
 
 ---
 
-## 📫 Contacto  
-- 💼 <a href="https://www.linkedin.com/in/ignacio-perez-serra" target="_blank">LinkedIn</a> 
-- 📧 ps.nacho01@gmail.com   
+## 📂 Featured Projects
+🔹 [Eddie Robot Digital Twin](https://github.com/Ignix98/eddiebot_ws) — Characterization and validation of a mobile robot’s dynamic model  
+🔹 [Simon](https://github.com/Ignix98/SIMON_BBB_IPERSER) — BeagleBone Black (BBB)
+
+---
+
+## 📫 Contact
+- 💼 <a href="https://www.linkedin.com/in/ignacio-perez-serra" target="_blank">LinkedIn</a>  
+- 📧 ps.nacho01@gmail.com  
 
 <!--
 **Ignix98/Ignix98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
