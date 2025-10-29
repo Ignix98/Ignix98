@@ -21,8 +21,8 @@ My goal is to **integrate engineering and software** to create **innovative, eff
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, C++, C, Java  
-- **Frameworks:** ROS 2  
+- **Languages:** C, C++, Python, Java  
+- **Frameworks:** ROS 2
 - **Databases:** PostgreSQL, SQL  
 - **Tools:** Git, Linux
 
