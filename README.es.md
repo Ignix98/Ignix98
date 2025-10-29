@@ -22,7 +22,7 @@ Mi objetivo es **integrar ingeniería y software** para crear soluciones **innov
 ---
 
 ## 🛠️ Tecnologías y herramientas  
-- **Lenguajes**: Python, C++, C, Java  
+- **Lenguajes**: C, C++ ,Python, Java  
 - **Frameworks**: ROS 2  
 - **Bases de datos**: PostgreSQL, SQL  
 - **Herramientas**: Git, Linux  
