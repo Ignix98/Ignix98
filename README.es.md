@@ -26,7 +26,6 @@ Me gusta trabajar en proyectos donde se crucen **ingeniería y software**, espec
 - **Control de versiones:** Git  
 - **Herramientas:** KiCad, LTSpice, MATLAB, SolidWorks, Unity
 
-
 ## 📌 Proyectos
 - **Gémelo digital — Robot Eddie**  
   Caracterización y validación del modelo dinámico de un robot móvil  
@@ -34,3 +33,11 @@ Me gusta trabajar en proyectos donde se crucen **ingeniería y software**, espec
 
 - **Simon — BeagleBone Black (BBB)**  
   https://github.com/Ignix98/SIMON_BBB_IPERSER
+
+---
+
+## 📫 Contacto
+- 💼 <a href="https://www.linkedin.com/in/ignacio-perez-serra" target="_blank">LinkedIn</a>  
+- 📧 ps.nacho01@gmail.com  
+
+---
