@@ -1,36 +1,36 @@
-<!-- En README.es.md (español) -->
 **🇪🇸 Español** · [🇬🇧 English](./README.md)
 
-## 👋 ¡Hola! Soy Ignacio Pérez Serra  
+# 👋 Hola, soy Ignacio Pérez Serra
 
-💻 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (2017–2019)**  
-⚙️ **Ingeniero en Electrónica Industrial por la Universitat de València (2019–2024)**  
-📚 Actualmente curso el **Máster en Automática e Informática Industrial en la UPV**  
+📍 Valencia, España · 💼 Ingeniería/Programación · 🔗 https://ipserra.vercel.app
 
-🎓 **TFG**: *Caracterización y validación del modelo dinámico de un robot móvil*  
-> Nota obtenida: **9,5/10**
+## 🎓 Formación
+- **Máster en Automática e Informática Industrial** — UPV *(actualmente)*
+- **Grado en Ingeniería Electrónica Industrial** — Universitat de València *(2019–2024)*
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** *(2017–2019)*
+
+**TFG:** *Caracterización y validación del modelo dinámico de un robot móvil*  
+**Nota:** 9,5/10
+
+## 🧩 Sobre mí
+Me interesan especialmente la **programación**, la **electrónica** y la **mecánica**.  
+Me motiva el aprendizaje continuo, la curiosidad técnica y el enfoque analítico.
+
+Me gusta trabajar en proyectos donde se crucen **ingeniería y software**, especialmente en contextos industriales y de robótica.
+
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes:** C (embedded), C++, Python, Java  
+- **Embedded:** firmware · ARM Cortex-M, STM32, ESP32, Arduino  
+- **Robótica:** ROS 2  
+- **SO:** Linux (Ubuntu/Debian), Windows  
+- **Control de versiones:** Git  
+- **Herramientas:** KiCad, LTSpice, MATLAB, SolidWorks, Unity
 
 
----
+## 📌 Proyectos
+- **Gémelo digital — Robot Eddie**  
+  Caracterización y validación del modelo dinámico de un robot móvil  
+  https://github.com/Ignix98/eddiebot_ws
 
-## 🚀 Sobre mí  
-Me interesa especialmente la **programación**, la **electrónica** y la **mecánica**.  
-Me defino por una **mentalidad de aprendizaje continuo**, la **curiosidad técnica** y la **capacidad de análisis**.  
-
-Mi objetivo es **integrar ingeniería y software** para crear soluciones **innovadoras y eficientes** en el ámbito tecnológico e industrial.  
-
----
-
-## 🛠️ Tecnologías y herramientas  
-- **Lenguajes**: C, C++ ,Python, Java  
-- **Frameworks**: ROS 2  
-- **Bases de datos**: PostgreSQL, SQL  
-- **Herramientas**: Git, Linux  
-
----
-
-## 📂 Proyectos destacados  
-🔹 [Gémelo digital Robot Eddie](https://github.com/Ignix98/eddiebot_ws) – Caracterización y validación del modelo dinámico de un robot móvil  
-🔹 [Simon](https://github.com/Ignix98/SIMON_BBB_IPERSER) –  BeagleBone Black (BBB)  
-
----
+- **Simon — BeagleBone Black (BBB)**  
+  https://github.com/Ignix98/SIMON_BBB_IPERSER
