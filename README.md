@@ -1,7 +1,7 @@
 <!-- En README.md (inglés) -->
 [🇪🇸 Español](./README.es.md) · **🇬🇧 English**
 
-# 👋 Hi, I’m Ignacio Pérez Serra
+# Hi, I’m Ignacio Pérez Serra
 
 📍 Valencia, Spain · 💼 Engineering/Programming · 🔗 https://ipserra.vercel.app
 
@@ -13,19 +13,27 @@
 **Bachelor’s Thesis:** *Characterization and validation of the dynamic model of a mobile robot*  
 **Grade:** 9.5/10
 
-## 🧩 About me
-I’m especially interested in **software development**, **electronics**, and **mechanics**.  
-I’m driven by continuous learning, technical curiosity, and an analytical mindset.
+## 🧩 About Me
 
-I enjoy working on projects where **engineering and software** meet, particularly in industrial and robotics contexts.
+I am a programmer and engineer with a strong interest in **firmware**, **embedded systems**, **electronics**, and **robotics**.
 
-## 🛠️ Technologies & tools
-- **Languages:** C (embedded), C++, Python, Java  
-- **Embedded:** firmware · ARM Cortex-M, STM32, ESP32, Arduino  
-- **Robotics:** ROS 2  
-- **OS:** Linux (Ubuntu/Debian), Windows  
-- **Version control:** Git  
-- **Tools:** KiCad, LTSpice, MATLAB, SolidWorks, Unity
+My curiosity has always been closely connected to hardware: understanding what happens “under the hood”, from a register, an interrupt, or a communication bus, to the moment when software moves a motor, reads a sensor, or makes an entire system work.
+
+I am especially interested in projects where **low-level software**, **electronics**, **automation**, and **real-world physical systems** come together. I enjoy working close to the hardware, debugging complex problems, and building solutions that connect code, signals, devices, and machines.
+
+I also have a strong affinity for the **retro** world, classic video games, and the internal architecture of systems, from 8/16-bit platforms to modern embedded environments.
+
+## 🛠️ Technologies and Tools
+
+* **Programming and scripting:** C / Embedded C, C++, C#, Python, Java, MATLAB/Octave, and shell scripting.
+* **Firmware and embedded systems:** bare-metal, basic FreeRTOS, Embedded Linux, drivers, GPIO, PWM, ADC/DAC, I2C, SPI, UART, CAN, and RS-485.
+* **Embedded platforms:** STM32, ESP32, BeagleBone Black, Raspberry Pi, Arduino, and Intel 8051.
+* **Communications and interfaces:** TCP/IP, UDP, MQTT, 10G Ethernet, USB, PCIe, Wi-Fi, 6G-SDI, 3G-SDI, DisplayPort, and HDMI.
+* **Automation, verification, and testing:** LabVIEW, TestStand, component SDKs, test benches, iperf3, ethtool, FFmpeg, multimeter, oscilloscope, and signal analysis.
+* **Robotics, simulation, and visualization:** ROS 1, ROS 2, Gazebo, Unity, and MATLAB.
+* **Electronics, design, and prototyping:** KiCad, LTspice, SolidWorks, 3D printing, and electronic prototyping.
+* **Operating systems and tools:** Linux —Ubuntu/Debian—, Windows, and Git.
+
 
 ## 📌 Projects
 - **Digital Twin — Robot Eddie**  
